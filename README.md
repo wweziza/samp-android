@@ -5,7 +5,7 @@ For educational purpose only, this code made from leaked San Andreas: Multiplaye
 
 # Usage
 Using visual studio 2013 or higher to compile the source code
-Don't forgot to change server <ip> and <port> 
+Don't forgot to change server ip and port 
 
-#Screenshot
+# Screenshot
 ![alt text](https://media.discordapp.net/attachments/776341604784930816/823802580643479572/Screenshot_20210323_135105.jpg?width=959&height=447)
