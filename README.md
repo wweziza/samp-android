@@ -13,3 +13,5 @@ Don't forgot to change server **ip** and **port**
 ### NOTE
 Contact me for any further purpose **wweziza@icloud.com**
 
+# TODO LIST
+- Making clear code untill it became SA-MP latest version
