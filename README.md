@@ -11,5 +11,5 @@ Don't forgot to change server **ip** and **port**
 ![alt text](https://media.discordapp.net/attachments/776341604784930816/823802580643479572/Screenshot_20210323_135105.jpg?width=959&height=447)
 
 ### NOTE
-Contact me for any further purpose **hello@weziza.tech**
+Contact me for any further purpose **wweziza@icloud.com**
 
